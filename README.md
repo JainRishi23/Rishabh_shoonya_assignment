@@ -87,7 +87,6 @@ Serenity Haven is a React application that helps users find and filter wellness 
 ### Responsive
 ![Responsive home](Screenshots/S5.png)![Responsive Filter](Screenshots/S6.png)![Responsive Footer](Screenshots/S7.png)
 
-
 ## Contributing
 
 Contributions are welcome! Please follow these steps:
