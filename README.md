@@ -23,12 +23,12 @@ Serenity Haven is a React application that helps users find and filter wellness 
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/retreat-finder.git
+   git clone https://github.com/your-username/serenity-haven-app.git
    ```
 
 2. Navigate to the project directory:
    ```sh
-   cd retreat-finder
+   cd serenity-haven-app
    ```
 
 3. Install the dependencies:
