@@ -74,17 +74,23 @@ Retreat Finder is a React application that helps users find and filter wellness 
 ### Home Page
 ![Home Page](Screenshots/S1.png)
 
+### Cards Page
+![Cards Page](Screenshots/S2.png)
+
+### Footer
+![Footer](Screenshots/S3.png)
+
 ### Filter Options
-![Filter Options](Screenshots/S2.png)
+![Filter Options](Screenshots/S4.jpg)
 
-### Retreat List
-![Retreat List](Screenshots/S3.png)
-![Retreat List](Screenshots/S4.jpg)
+### Responsive home
+![Responsive home](Screenshots/S5.jpg)
 
-### Responsive
-![Retreat List](Screenshots/S5.jpg)
-![Retreat List](Screenshots/S6.jpg)
-![Retreat List](Screenshots/S7.jpg)
+### Responsive Filter
+![Responsive Filter](Screenshots/S6.jpg)
+
+### Responsive Footer
+![Responsive Footer](Screenshots/S7.jpg)
 
 ## Contributing
 
