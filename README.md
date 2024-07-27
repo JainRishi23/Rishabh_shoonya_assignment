@@ -1,6 +1,6 @@
-# Retreat Finder
+# Serenity Haven
 
-Retreat Finder is a React application that helps users find and filter wellness retreats based on various criteria such as type, date, location, price, and duration.
+Serenity Haven is a React application that helps users find and filter wellness retreats based on various criteria such as type, date, location, price, and duration.
 
 ## Table of Contents
 
