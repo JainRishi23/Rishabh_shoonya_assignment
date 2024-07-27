@@ -62,6 +62,7 @@ Serenity Haven is a React application that helps users find and filter wellness 
 - Responsive design for mobile and desktop views
 - Paginated list of retreats
 - Scroll to top button for easy navigation
+- User can login
 
 ## Technologies
 
